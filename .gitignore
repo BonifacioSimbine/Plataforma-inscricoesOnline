@@ -1,0 +1,7 @@
+# Configuracoes sensiveis
+.env
+config/config.php
+
+#IDE
+.vscode/
+.idea/
